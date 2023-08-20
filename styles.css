@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color:aqua;
+    color: crimson;
+}
+h1{
+    text-align: center;
+}
+img{
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.nodots{
+
+    list-style-type: none;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+li{
+    margin-top: 10px;
+    font-size: large;
+}
+.recipe1{
+    background-color: lightgreen;
+    color: blue;
+}
